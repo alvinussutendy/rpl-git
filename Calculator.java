@@ -5,6 +5,16 @@ public class Calculator{
 		
 	}
 	
+	public float plus(float a, float b){
+		return 0;
+		
+	}
+	
+	public float minus(float a, float b){
+		return 0;
+		
+	} 
+	
 	public float multiply(float a, float b){
 		return 0;
 		
